@@ -1,4 +1,4 @@
 Humanoid
 ========
 
-Humanoid with moving parts. Simulated in PyOpenGL
+Humanoid with moving parts. Made in PyOpenGL
